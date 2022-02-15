@@ -6,7 +6,7 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "com.ualr.firstapp"
-        minSdkVersion 15 // minimum SDK version has to be 15, because you want it to run android version above 14
+        minSdkVersion 14
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
